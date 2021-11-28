@@ -1,0 +1,9 @@
+C:\Users\Setepa-i\source\repos\TextKesme\TextKesme\bin\Debug\TextKesme.exe.config
+C:\Users\Setepa-i\source\repos\TextKesme\TextKesme\bin\Debug\TextKesme.exe
+C:\Users\Setepa-i\source\repos\TextKesme\TextKesme\bin\Debug\TextKesme.pdb
+C:\Users\Setepa-i\source\repos\TextKesme\TextKesme\obj\Debug\TextKesme.Form1.resources
+C:\Users\Setepa-i\source\repos\TextKesme\TextKesme\obj\Debug\TextKesme.Properties.Resources.resources
+C:\Users\Setepa-i\source\repos\TextKesme\TextKesme\obj\Debug\TextKesme.csproj.GenerateResource.cache
+C:\Users\Setepa-i\source\repos\TextKesme\TextKesme\obj\Debug\TextKesme.exe
+C:\Users\Setepa-i\source\repos\TextKesme\TextKesme\obj\Debug\TextKesme.pdb
+C:\Users\Setepa-i\source\repos\TextKesme\TextKesme\obj\Debug\TextKesme.csprojAssemblyReference.cache
